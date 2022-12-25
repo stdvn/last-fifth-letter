@@ -1,0 +1,7 @@
+{
+  "name": "last-fifth-letter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
